@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dropbox.com/s/65nn0bs2531tmzr/Untitled%20design.gif?dl=0)]
+[![MasterHead](https://theblueventures.in/coding.gif)](https://www.dixitg.com)
 
 <h1 align="center">Hi 👋, I'm Dixit</h1>
 <h3 align="center">Software Developer & Tech Enthusiast</h3>
