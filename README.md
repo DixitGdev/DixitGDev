@@ -1,3 +1,5 @@
+[![MasterHead](https://s567.use6.mysecurecloudhost.com:2083/cpsess9705682749/viewer/home%2fdixitgco%2fGithubGif/videoplasty-28139-midnight-coding-late-night-session-lofi-animation-stock-animation-pdp.gif)](https://www.dixitg.com)
+
 <h1 align="center">Hi 👋, I'm Dixit</h1>
 <h3 align="center">Software Developer & Tech Enthusiast</h3>
 
