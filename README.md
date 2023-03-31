@@ -1,4 +1,4 @@
-[![MasterHead](https://dalu-my.sharepoint.com/personal/dx343670_dal_ca/_layouts/15/embed.aspx?UniqueId=d74c1857-ea61-40a2-beb7-b7eb53ebecc3)](https://www.dixitg.com)
+[![MasterHead](https://dalu-my.sharepoint.com/:i:/g/personal/dx343670_dal_ca/EVcYTNdh6qJAvre361Pr7MMB_HYZy8HIC3t2Y5Fj61fd0w?e=k3hcCI)](https://www.dixitg.com)
 
 <h1 align="center">Hi 👋, I'm Dixit</h1>
 <h3 align="center">Software Developer & Tech Enthusiast</h3>
