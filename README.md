@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dixit</h1>
-<img src="https://theblueventures.in/coding.gif" alt="dixitgdev" />
+<img src="https://theblueventures.in/coding.gif" alt="dixitgdev" height="200px" width="200px"/>
 <h3 align="center">Software Developer & Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitgdev&label=Profile%20views&color=0e75b6&style=flat" alt="dixitgdev" /> </p>
