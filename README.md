@@ -1,6 +1,5 @@
-[![MasterHead](https://theblueventures.in/coding.gif)](https://www.dixitg.com)
+<img src="https://theblueventures.in/coding.gif" alt="dixitgdev" />
 
-https://theblueventures.in/coding.gif
 
 <h1 align="center">Hi 👋, I'm Dixit</h1>
 <h3 align="center">Software Developer & Tech Enthusiast</h3>
