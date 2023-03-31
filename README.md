@@ -1,4 +1,4 @@
-[![MasterHead](https://dalu-my.sharepoint.com/:i:/g/personal/dx343670_dal_ca/EVcYTNdh6qJAvre361Pr7MMB_HYZy8HIC3t2Y5Fj61fd0w?e=k3hcCI)](https://www.dixitg.com)
+[![MasterHead](https://www.dropbox.com/s/65nn0bs2531tmzr/Untitled%20design.gif?dl=0)
 
 <h1 align="center">Hi 👋, I'm Dixit</h1>
 <h3 align="center">Software Developer & Tech Enthusiast</h3>
