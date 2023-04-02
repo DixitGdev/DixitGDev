@@ -1,5 +1,5 @@
 
-![](https://www.thisiscolossal.com/wp-content/uploads/2018/08/Isopoly_01.gif)
+![](https://theblueventures.in/coding.gif)
 <h1 align="center">Hi 👋, I'm Dixit</h1>
 <img src="https://theblueventures.in/coding.gif" alt="dixitgdev" height="200px" width="200px"/>
 <h3 align="center">Software Developer & Tech Enthusiast</h3>
