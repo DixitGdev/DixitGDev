@@ -1,5 +1,5 @@
 
-![](https://media.tenor.com/SSigufTXwhsAAAAC/spongebob-thumbs-up.gif)
+![](https://github.com/DixitGdev/DixitGDev/blob/main/Untitled%20design.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Dixit</h1>
 <img src="https://theblueventures.in/coding.gif" alt="dixitgdev" height="200px" width="200px"/>
 <h3 align="center">Software Developer & Tech Enthusiast</h3>
