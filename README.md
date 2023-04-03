@@ -26,6 +26,6 @@
 <a href="https://medium.com/@dixitghodadara20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dixitghodadara20" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/DixitGdev/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/DixitGdev/DixitGdev/blob/output/github-contribution-grid-snake.gif
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dixitgdev&show_icons=true&locale=en&layout=compact" alt="dixitgdev" /></p>
