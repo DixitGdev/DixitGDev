@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitgdev&label=Profile%20views&color=0e75b6&style=flat" alt="dixitgdev" /> </p>
 
-- 🔭 I’m currently working on **AI and Full Stack Projects**
+- 🔭 I’m currently working on **AI and Full Stack Projects (Angular, React, Next, Vue)**
 
 - 🌱 I’m currently learning **AWS Solution Architect, System Design and More Automation**
 
