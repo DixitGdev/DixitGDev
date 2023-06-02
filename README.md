@@ -16,7 +16,9 @@
 
 - 🌱 I’m currently learning **AWS Solution Architect, System Design and More Automation**
 
-- 💬 Ask me about **Backend and Automation Development**
+- ⚒️ See my Project Repos at [https://github.com/DixitGdev?tab=repositories](Github Repos)
+
+- 💬 Ask me about **Full-Stack and Automation Development**
 
 - 👨‍💻 All of my projects are available at [https://dixitg.com/](https://dixitg.com/)
 
