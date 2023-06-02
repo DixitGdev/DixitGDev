@@ -20,9 +20,9 @@
 
 - 👨‍💻 All of my projects are available at [https://dixitg.com/](https://dixitg.com/)
 
-- 💬 Ask me about **Full-Stack and Automation Development**
-
 - 📝 I sometime write articles on [https://medium.com/@dixitghodadara20](https://medium.com/@dixitghodadara20)
+
+- 💬 Ask me about **Full-Stack and Automation Development**
 
 - ⚡Fun fact **I love Travelling ✈️🧳, Gaming 🎮 and Exploring Tech 🧑‍💻**
 
