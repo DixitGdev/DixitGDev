@@ -18,9 +18,9 @@
 
 - ⚒️ See my Project Repos at -> [GitHub Repos](https://github.com/DixitGdev?tab=repositories)
 
-- 💬 Ask me about **Full-Stack and Automation Development**
-
 - 👨‍💻 All of my projects are available at [https://dixitg.com/](https://dixitg.com/)
+
+- 💬 Ask me about **Full-Stack and Automation Development**
 
 - 📝 I sometime write articles on [https://medium.com/@dixitghodadara20](https://medium.com/@dixitghodadara20)
 
