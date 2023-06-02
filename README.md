@@ -12,11 +12,11 @@
 <a href="https://medium.com/@dixitghodadara20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dixitghodadara20" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **AI and Full Stack Projects (Angular, React, Next, Vue)**
+- 🔭 I’m currently working on **AI and Full Stack Projects (Angular, React, NextJs)**
 
 - 🌱 I’m currently learning **AWS Solution Architect, System Design and More Automation**
 
-- ⚒️ See my Project Repos at [https://github.com/DixitGdev?tab=repositories](Github Repos)
+- ⚒️ See my Project Repos at -> [GitHub Repos](https://github.com/DixitGdev?tab=repositories)
 
 - 💬 Ask me about **Full-Stack and Automation Development**
 
