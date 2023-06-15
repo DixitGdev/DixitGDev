@@ -24,12 +24,5 @@
 
 - 💬 Ask me about **Full-Stack and Automation Development**
 
-- ⚡Fun fact **I love Travelling ✈️🧳, Gaming 🎮 and Exploring Tech 🧑‍💻**
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DixitGdev/DixitGdev/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DixitGdev/DixitGdev/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/DixitGdev/DixitGdev/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+- ⚡Travelling ✈️🧳, Gaming 🎮 and Exploring Tech 🧑‍💻**
 
