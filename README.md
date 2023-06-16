@@ -1,9 +1,6 @@
-
-![](https://github.com/DixitGdev/DixitGDev/blob/main/Artboard%201.png?raw=true)
-<h1 align="center">Hi 👋, I'm Dixit</h1>
-<img src="https://theblueventures.in/coding.gif" alt="dixitgdev" height="200px" width="200px"/>
-<h3 align="center">Software Developer & Tech Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitgdev&label=Profile%20views&color=0e75b6&style=flat" alt="dixitgdev" /> </p>
+
+# 👋 Hey there! I'm Dixit Ghodadara
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dixitghodadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dixitghodadara" height="30" width="40" /></a>
@@ -12,17 +9,27 @@
 <a href="https://medium.com/@dixitghodadara20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dixitghodadara20" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **AI and Full Stack Projects (Angular, React, NextJs)**
+### I'm a Software Developer and Tech Enthusiast
 
-- 🌱 I’m currently learning **AWS Solution Architect, System Design and More Automation**
+#### _About me_
+- 🧑‍💻 **3+ years** of experience in Software Development.
+- 🔬 My expertise lies in **designing, coding, and testing** high-performance web and mobile applications.
+- 🦾 I've worked on various projects - from small prototypes to **enterprise-level** software.
+- 🚀 I'm passionate about using my skills to solve challenging problems with a direct **real-world impact.**
+- 🔭 In my spare time, I'm always exploring and experimenting with the **latest tech** trends.
+</br> 
 
-- ⚒️ See my Project Repos at -> [GitHub Repos](https://github.com/DixitGdev?tab=repositories)
+> ### **I truly believe in the power of code to transform and simplify our lives, and I am always eager to work on projects that help achieve this.**
 
-- 👨‍💻 All of my projects are available at [https://dixitg.com/](https://dixitg.com/)
+#### ✅ Tech stack ⚒️
+- Full Stack Development (**Next.js, Angular, React, Node, MongoDB, REST APIs and Express**)
+- Cloud (AWS and GCP)
+- Appium & Selenium
+- Java, Python, TypeScript, JavScript and Dart
+- Agile, SOLID, Design Patterns, SDLC and CI/CD
+- And much more at [GitHub Repos](https://github.com/DixitGdev?tab=repositories)
 
-- 📝 I sometime write articles on [https://medium.com/@dixitghodadara20](https://medium.com/@dixitghodadara20)
+### 🫴 Community Contributions:
+- Developed an [Automated Soccer ground booking](https://github.com/DixitGdev/Soccer-Booking-Automation-SIA-Singapore) solution; it helped **67+ NGO students**.
 
-- 💬 Ask me about **Full-Stack and Automation Development**
-
-- ⚡Travelling ✈️🧳, Gaming 🎮 and Exploring Tech 🧑‍💻**
-
+### 🤝 I'm always open to collaborations and interesting projects. Feel free to reach out if you'd like to connect or discuss any potential opportunities!
