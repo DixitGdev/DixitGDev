@@ -1,3 +1,6 @@
+
+![Black Technology LinkedIn Banner (1584 × 600 px)](https://github.com/DixitGdev/DixitGDev/assets/51261247/a317a154-2972-4a23-9170-ff98bddc2ad7)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitgdev&label=Profile%20views&color=0e75b6&style=flat" alt="dixitgdev" /> </p>
 
 # 👋 Hey there! I'm Dixit Ghodadara
