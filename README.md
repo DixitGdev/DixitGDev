@@ -11,7 +11,6 @@
 </p>
 
 #### _About me_
-- 🧑‍💻 **3+ years** of experience in Software Development.
 - 🔬 My expertise lies in **designing, coding, and testing** high-performance web and mobile applications.
 - 🦾 I've worked on various projects - from small prototypes to **enterprise-level** software.
 - 🚀 I'm passionate about using my skills to solve challenging problems with a direct **real-world impact.**
@@ -20,15 +19,17 @@
 
 > ### **I truly believe in the power of code to transform and simplify our lives, and I am always eager to work on projects that help achieve this.**
 
+### 🫴 Community Contributions:
+- Developed an [**Automated Soccer ground booking**](https://github.com/DixitGdev/Soccer-Booking-Automation-SIA-Singapore) solution; it helped **67+ NGO students to book soccer grounds in the rush period.**.
+- Developed an Android App [**Let's Meet (1400+ Downloads)**](https://play.google.com/store/apps/details?id=lets.meet.video) for Meetings and Video Calls during Covid time to support remote work.
+- Published a [**Dart Package**](https://github.com/DixitGdev/badge-level) for Flutter community
+
 #### ✅ Tech stack ⚒️
 - Full Stack Development (**Next.js, Angular, React, Node, MongoDB, REST APIs and Express**)
 - Cloud (AWS and GCP)
-- Appium & Selenium
 - Java, Python, TypeScript, JavScript and Dart
 - Agile, SOLID, Design Patterns, SDLC and CI/CD
+- Appium & Selenium
 - And much more at [GitHub Repos](https://github.com/DixitGdev?tab=repositories)
-
-### 🫴 Community Contributions:
-- Developed an [Automated Soccer ground booking](https://github.com/DixitGdev/Soccer-Booking-Automation-SIA-Singapore) solution; it helped **67+ NGO students**.
 
 ### 🤝 I'm always open to collaborations and interesting projects. Feel free to reach out if you'd like to connect or discuss any potential opportunities!
