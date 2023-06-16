@@ -20,7 +20,7 @@
 > ### **I truly believe in the power of code to transform and simplify our lives, and I am always eager to work on projects that help achieve this.**
 
 ### 🫴 Community Contributions:
-- Developed an [**Automated Soccer ground booking**](https://github.com/DixitGdev/Soccer-Booking-Automation-SIA-Singapore) solution; it helped **67+ NGO students to book soccer grounds in the rush period.**.
+- Developed an [**Automated Soccer ground booking**](https://github.com/DixitGdev/Soccer-Booking-Automation-SIA-Singapore) solution; it helped **67+ NGO students to book soccer grounds in the rush period.**
 - Developed an Android App [**Let's Meet (1400+ Downloads)**](https://play.google.com/store/apps/details?id=lets.meet.video) for Meetings and Video Calls during Covid time to support remote work.
 - Published a [**Dart Package**](https://github.com/DixitGdev/badge-level) for Flutter community
 
