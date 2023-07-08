@@ -6,7 +6,6 @@
 <a href="https://linkedin.com/in/dixit-ghodadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dixit-ghodadara" height="30" width="40" /></a>
 <a href="https://twitter.com/dixitghodadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dixitghodadara" height="30" width="40" /></a>
 <a href="https://instagram.com/dixit_ghodadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dixit_ghodadara" height="30" width="40" /></a>
-<a href="https://medium.com/@dixitghodadara20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dixitghodadara20" height="30" width="40" /></a>
 </p>
 
 > ### **I truly believe in the power of code to transform and simplify our lives sustainably.**
