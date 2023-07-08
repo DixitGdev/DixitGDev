@@ -9,27 +9,26 @@
 <a href="https://medium.com/@dixitghodadara20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dixitghodadara20" height="30" width="40" /></a>
 </p>
 
-#### _About me_
-- 🔬 My expertise lies in **designing, coding, and testing** high-performance web and mobile applications.
+> ### **I truly believe in the power of code to transform and simplify our lives sustainably.**
+
+#### 👤 About me
+- ☁️ I'm AWS Certified Solutions Architect - Associate [**(View certificate)**](https://www.credly.com/badges/dda467f0-4405-4ce1-b814-4bc670f4770b)
+- 🔬 My expertise lies in **designing, coding, and testing** high-performance Web, Desktop and mobile applications.
 - 🦾 I've worked on various projects - from small prototypes to **enterprise-level** software.
 - 🚀 I'm passionate about using my skills to solve challenging problems with a direct **real-world impact.**
-- 🔭 In my spare time, I'm always exploring and experimenting with the **latest tech** trends.
-</br> 
-
-> ### **I truly believe in the power of code to transform and simplify our lives, and I am always eager to work on projects that help achieve this.**
+  
+#### ✅ Tech stack ⚒️
+- **Cloud: AWS, GCP**
+- **Java, Python, JavaScript, TypeScript, HTML, CSS, C/C++, SQL**
+- **Angular, ReactJS, NextJS, NodeJS, Express, SpringBoot, .NET**
+- **MySQL, MongoDB, PostgreSQL, DynamoDB, Firebase**
+- **Agile SCRUM Methodology, Object-oriented Design (OOPS), SOLID Principles**
+- **Git, GitLab CI/CD, Postman, Linux, Redux, HTTP Toolkit, JIRA, Confluence**
+- **Selenium, Appium, JUnit, Mocha**
+- And much more at [GitHub Repos](https://github.com/DixitGdev?tab=repositories)
 
 ### 🫴 Made some real-world Impacts:
 - Developed an [**Automated booking solution**](https://github.com/DixitGdev/Soccer-Booking-Automation-SIA-Singapore); it helped **67+ NGO students to book soccer grounds in the rush period.**
 - Developed an Android App [**Let's Meet (1400+ Downloads)**](https://play.google.com/store/apps/details?id=lets.meet.video) for Meetings and Video Calls during Covid time to support remote work.
 - Published a [**Dart Package**](https://github.com/DixitGdev/badge-level) for Flutter community
 - Continue...
-
-#### ✅ Tech stack ⚒️
-- Full Stack Development (**Next.js, Angular, React, Node, MongoDB, REST APIs and Express**)
-- Cloud (AWS and GCP)
-- Java, Python, TypeScript, JavScript and Dart
-- Agile, SOLID, Design Patterns, SDLC and CI/CD
-- Appium & Selenium
-- And much more at [GitHub Repos](https://github.com/DixitGdev?tab=repositories)
-
-### 🤝 I'm always open to collaborations and interesting projects. Feel free to reach out if you'd like to connect or discuss any potential opportunities!
