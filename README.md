@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner (1584 × 600 px) (1200 × 450 px) (1)](https://github.com/DixitGdev/DixitGDev/assets/51261247/7f721bcc-53fb-4625-9302-5a905823bb1b)
+![Black Technology LinkedIn Banner (1584 × 600 px) (1200 × 450 px) (2)](https://github.com/DixitGdev/DixitGDev/assets/51261247/2046fe72-b333-451e-936d-4e8c1b6d5967)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitgdev&label=Profile%20views&color=0e75b6&style=flat" alt="dixitgdev" /> </p>
 <h3 align="left">Connect with me:</h3>
