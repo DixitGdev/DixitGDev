@@ -6,8 +6,6 @@
 <a href="https://twitter.com/dixitghodadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dixitghodadara" height="30" width="40" /></a>
 </p>
 
-> ### **I truly believe in the power of code to transform and simplify our lives sustainably.**
-
 #### 👤 About me
 - ☁️ I'm AWS Certified Solutions Architect - Associate [**(View certificate)**](https://www.credly.com/badges/dda467f0-4405-4ce1-b814-4bc670f4770b)
 - 🔬 My expertise lies in **designing, coding, and testing** high-performance Web, Desktop and mobile applications.
@@ -23,9 +21,3 @@
 - **Git, GitLab CI/CD, Postman, Linux, Redux, HTTP Toolkit, JIRA, Confluence**
 - **Selenium, Appium, JUnit, Mocha**
 - And much more at [GitHub Repos](https://github.com/DixitGdev?tab=repositories)
-
-### 🫴 Made some real-world Impacts:
-- Developed an [**Automated booking solution**](https://github.com/DixitGdev/Soccer-Booking-Automation-SIA-Singapore); it helped **67+ NGO students to book soccer grounds in the rush period.**
-- Developed an Android App [**Let's Meet (1400+ Downloads)**](https://play.google.com/store/apps/details?id=lets.meet.video) for Meetings and Video Calls during Covid time to support remote work.
-- Published a [**Dart Package**](https://github.com/DixitGdev/badge-level) for Flutter community
-- Continue...
